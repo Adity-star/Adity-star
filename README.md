@@ -1,4 +1,5 @@
-<h1>Hi there! I'm Aditya Akuskar 👋 🚀 Data & AI Enthusiast | 📍 Pune, Maharashtra 📚 Currently learning Deep Learning and working on Machine Learning projects</h1>
+<h1>Hi there! I'm Aditya Akuskar 👋 </h1>
+ <p> 🚀 Data & AI Enthusiast | 📍 Pune, Maharashtra 📚 Currently learning Deep Learning and working on Machine Learning projects<p>
 <p>🔍 Passionate about building AI-driven solutions and data platforms!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
