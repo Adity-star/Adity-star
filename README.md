@@ -1,13 +1,13 @@
 <h1>Hi there! I'm Aditya Akuskar 👋 </h1>
- <p> 🚀 Data & AI Enthusiast | 📍 Pune, Maharashtra 📚 Currently learning Deep Learning and working on Machine Learning projects<p>
+<p> 🚀 Data & AI Enthusiast | 📍 Pune, Maharashtra <p>
+<p> 📚 Currently learning Deep Learning and working on Machine Learning projects<p>
 <p>🔍 Passionate about building AI-driven solutions and data platforms!</p>
 
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-a-27b43533a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@undefinedttps://medium.com/@aakuskar.980) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23007FFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaakuskar)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakuskar.980@gmail.com)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23007FFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaakuskar)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakuskar.980@gmail.com)  
 
 
 
@@ -25,11 +25,11 @@
 ## 🔥 Profile Visitors:
 ![Profile Views](https://visitcount.itsvg.in/api?id=Aditya-star&icon=0&color=6)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📝 Recent Blogs:
+🔹 [**The NLP Landscape**]([https://medium.com/@aakuskar.980/your-blog-link-1](https://medium.com/@aakuskar.980/the-nlp-landscape-a-journey-through-time-and-technology-9802c2a43200))  
+🔹 [**Data Augmentation**](https://medium.com/@aakuskar.980/data-augmentation-enhancing-machine-learning-models-with-synthetic-data-6c271b4f1275)  
+🔹 [**Future of Data Science**](https://medium.com/@aakuskar.980/future-of-data-science-d8defbd39bc7)  
 
----
-[![](https://visitcount.itsvg.in/api?id=Adity-star&icon=0&color=0)](https://visitcount.itsvg.in)
+📢 Check out all my blogs on [Medium](https://medium.com/@aakuskar.980)!
 
-[![](https://visitcount.itsvg.in/api?id=Adity-star&icon=0&color=0)](https://visitcount.itsvg.in)
 
