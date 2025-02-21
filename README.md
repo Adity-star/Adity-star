@@ -23,7 +23,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Adity-star&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📝 Recent Blogs:
-🔹 [**The NLP Landscape**]([https://medium.com/@aakuskar.980/your-blog-link-1](https://medium.com/@aakuskar.980/the-nlp-landscape-a-journey-through-time-and-technology-9802c2a43200)  
+🔹 [**The NLP Landscape**](https://medium.com/@aakuskar.980/the-nlp-landscape-a-journey-through-time-and-technology-9802c2a43200)  
 🔹 [**Data Augmentation**](https://medium.com/@aakuskar.980/data-augmentation-enhancing-machine-learning-models-with-synthetic-data-6c271b4f1275)  
 🔹 [**Future of Data Science**](https://medium.com/@aakuskar.980/future-of-data-science-d8defbd39bc7)  
 
