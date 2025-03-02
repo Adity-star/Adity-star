@@ -3,12 +3,12 @@
 <p> 📚 Currently learning Deep Learning and Gen AI <p>
 <p>🔍 Passionate about building AI-driven solutions and data platforms!</p> 
 
-I have technical experience and interest in:
-Deep Learning
-Machine Learning
-Natural Language Processing
-MLOps
-Generative AI
+#### I have technical experience and interest in:
+1. Deep Learning
+2. Machine Learning
+3. Natural Language Processing
+4. MLOps
+5. Generative AI
 
 
 # 💻 Language and Tools:
