@@ -1,6 +1,6 @@
 <h1>Hi there! I'm Aditya Akuskar 👋 </h1>
 <p> 🚀 Data & AI Enthusiast | 📍 Pune, Maharashtra <p>
-<p> 📚 Currently learning Deep Learning and working on Machine Learning projects<p>
+<p> 📚 Currently learning Deep Learning and Gen AI <p>
 <p>🔍 Passionate about building AI-driven solutions and data platforms!</p>
 
 
