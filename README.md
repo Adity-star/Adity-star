@@ -1,9 +1,11 @@
-<h1>Hi there! I'm Aditya Ak India 👋 </h1>
+<h1>Hi, I'm Aditya Ak 👋🏻🧑🏻‍💻 Hydrabad, India  </h1>
 I'm a data science researcher and freelancer who is interested in devploying and researching
 Artificial Intelligence and also AI in finance, building devlopment tools in AI.I write often about current trends and technical concepts in data science.
-<p> 🚀 Currently I am working on Time Series. <p>
-<p> 📚 Currently learning and exploring Generative AI <p>
-<p>🔍 Passionate about building AI-driven solutions and data platforms!</p> 
+
+* <p> 🚀 Currently I am working on Time Series. <p>
+* <p> 📚 Currently learning and exploring Generative AI <p>
+* <p>🔍 Passionate about building AI-driven solutions and data platforms!</p> 
+* 🤔Looking to work on Big Projects
 
 
 #### I have technical experience and interest in:
@@ -26,8 +28,10 @@ Artificial Intelligence and also AI in finance, building devlopment tools in AI.
 * Dancing
   
 ## Find me around web 🌍:
-* Everything about me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-a-27b43533a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aakuskar.980) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23007FFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaakuskar)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakuskar.980@gmail.com) 
+* Everything about me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-a-27b43533a/)
+* Writing in public on: [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aakuskar.980) 
+* My kaggle work: [![Kaggle](https://img.shields.io/badge/Kaggle-%23007FFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaakuskar)
+* You can contact me on : [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakuskar.980@gmail.com) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adity-star&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
