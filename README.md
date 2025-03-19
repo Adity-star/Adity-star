@@ -1,7 +1,10 @@
-<h1>Hi there! I'm Aditya Akuskar 👋 </h1>
-<p> 🚀 Data & AI Enthusiast | 📍 Pune, Maharashtra <p>
-<p> 📚 Currently learning Deep Learning and Gen AI <p>
+<h1>Hi there! I'm Aditya Ak India 👋 </h1>
+I'm a data science researcher and freelancer who is interested in devploying and researching
+Artificial Intelligence and also AI in finance, building devlopment tools in AI.I write often about current trends and technical concepts in data science.
+<p> 🚀 Currently I am working on Time Series. <p>
+<p> 📚 Currently learning and exploring Generative AI <p>
 <p>🔍 Passionate about building AI-driven solutions and data platforms!</p> 
+
 
 #### I have technical experience and interest in:
 * Deep Learning
@@ -9,6 +12,8 @@
 * Natural Language Processing
 * MLOps
 * Generative AI
+
+ 📢 Check out all my blogs on [Medium](https://medium.com/@aakuskar.980)!
 
 
 ## 💻 Language and Tools:
@@ -20,8 +25,8 @@
 * Coding
 * Dancing
   
-## 🌐 You can also find me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-a-27b43533a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aakuskar.980) 
+## Find me around web 🌍:
+* Everything about me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-a-27b43533a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aakuskar.980) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23007FFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaakuskar)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakuskar.980@gmail.com) 
 
 ## 📊 GitHub Stats:
@@ -30,11 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adity-star&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## 📝 Recent Blogs:
-🔹 [**The NLP Landscape**](https://medium.com/@aakuskar.980/the-nlp-landscape-a-journey-through-time-and-technology-9802c2a43200)  
-🔹 [**Data Augmentation**](https://medium.com/@aakuskar.980/data-augmentation-enhancing-machine-learning-models-with-synthetic-data-6c271b4f1275)  
-🔹 [**Future of Data Science**](https://medium.com/@aakuskar.980/future-of-data-science-d8defbd39bc7)  
 
-📢 Check out all my blogs on [Medium](https://medium.com/@aakuskar.980)!
 
 
