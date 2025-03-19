@@ -3,9 +3,9 @@ I'm a data science researcher and freelancer who is interested in devploying and
 Artificial Intelligence and also AI in finance, building devlopment tools in AI.I write often about current trends and technical concepts in data science.
 
 * <p> 🚀 Currently I am working on Time Series. <p>
-* <p> 📚 Currently learning and exploring Generative AI <p>
+* <p> 📚 Currently learning and exploring Generative AI. <p>
 * <p>🔍 Passionate about building AI-driven solutions and data platforms!</p> 
-* 🤔Looking to work on Big Projects
+* 🤔Looking to work on Big Projects.
 
 
 #### I have technical experience and interest in:
