@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aditya Ak 👋🏻🧑🏻‍💻 Hydrabad, India  </h1>
+<h1>Hi, I'm Aditya Ak 👋🏻🧑🏻‍💻 Hyderabad, India  </h1>
 I'm a data science researcher and freelancer who is interested in devploying and researching
 Artificial Intelligence and also AI in finance, building devlopment tools in AI.I write often about current trends and technical concepts in data science.
 
