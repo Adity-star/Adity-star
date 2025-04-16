@@ -1,4 +1,5 @@
-<h1>Hi, I'm Aditya Ak 👋🏻🧑🏻‍💻 Hyderabad, India  </h1>
+<h1>Hi, I'm Aditya Ak 👋🏻🧑🏻‍💻 Hyderabad, India  </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=adity-star&label=Profile%20views&color=0e75b6&style=flat" alt="adity-star" /> </p>
+
 I'm a data science researcher and freelancer who is interested in devploying and researching
 Artificial Intelligence and also AI in finance, building devlopment tools in AI.I write often about current trends and technical concepts in data science.
 
@@ -26,6 +27,7 @@ Artificial Intelligence and also AI in finance, building devlopment tools in AI.
 * Blogging
 * Coding
 * Dancing
+
   
 ## Find me around web 🌍:
 * Everything about me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-a-27b43533a/)
@@ -33,12 +35,11 @@ Artificial Intelligence and also AI in finance, building devlopment tools in AI.
 * My kaggle work: [![Kaggle](https://img.shields.io/badge/Kaggle-%23007FFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaakuskar)
 * You can contact me on : [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakuskar.980@gmail.com) 
 
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adity-star&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adity-star&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adity-star&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
 
 
 
