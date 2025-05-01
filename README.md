@@ -1,5 +1,5 @@
-<h1>Hi, I'm Aditya Ak 👋🏻🧑🏻‍💻 Hyderabad, India  </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=adity-star&label=Profile%20views&color=0e75b6&style=flat" alt="adity-star" /> </p>
-
+<h1>Hi, I'm Aditya Ak 👋🏻🧑🏻‍💻 Hyderabad, India </h1>
+ 
 I'm a data scientist and freelancer who is interested in devploying and researching
 Artificial Intelligence and also AI in finance, building devlopment tools in AI.I write often about current trends and technical concepts in data science.
 
@@ -43,3 +43,6 @@ Artificial Intelligence and also AI in finance, building devlopment tools in AI.
 
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adity-star&label=Profile%20views&color=0e75b6&style=flat" alt="adity-star" width="150"/>
+</p>
