@@ -1,9 +1,11 @@
-<h1 align="center">Hey, I'm Aditya 👋</h1>
-<h3 align="center"> Data Scientist |  GenAI Researcher |  AI Builder |  Freelancer</h3>
+
+![image](https://github.com/user-attachments/assets/47f401ea-da2c-4b12-a74a-dd6079574d37)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+AI;Building+AI+Tools;Writing+about+GenAI;Open+for+Collaborations&center=true&width=500&height=30">
 </p>
+
 
 ---
 
