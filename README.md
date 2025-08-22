@@ -12,20 +12,26 @@
 
 ### 🚀 About Me
 
-I'm an aspiring **AI Engineer** from **Hyderabad, India**, driven by the vision of building **real-world AI products** that make a difference. As a **GenAI enthusiast**, I'm deeply inspired by the rapid evolution of technologies like **LLMs**, **RAG**, and **autonomous AI agents** — and love turning them into tools people can use.
+I’m Aditya, a Freelance AI Engineer and Machine Learning Enthusiast from Hyderabad, India, passionate about turning cutting-edge research into practical AI products. I specialize in building real-world AI applications powered by LLMs, RAG, and autonomous AI agents, with a focus on solving business problems through scalable and intelligent systems.
 
-💡 Although a fresher, I bring hands-on experience in developing full-stack AI applications — from model training to deployment — using tools like **FastAPI**, **Docker**, and **Streamlit**. My journey is rooted in **curiosity**, powered by **practice**, and aimed at **impact**.
+I have hands-on experience in designing and deploying end-to-end AI solutions from model development to production-ready apps using tools like FastAPI, Docker, and Streamlit. My approach combines curiosity, practical experimentation, and a drive for impactful outcomes.
+
+Always learning, always building  my mission is to craft AI systems that are not only innovative but also useful, reliable, and accessible.
 
 ---
 
-### 🧠 My AI Focus Areas
+### 🧠 What I Do
 
-- 🔍 **Generative AI** (LLMs, Diffusion Models, RAG)
-- ⚙️ **End-to-End ML Systems** & Deployment
-- 🛠️ **AI Agents & Prompt Engineering**
-- 🧾 **NLP and Information Retrieval**
-- 🧪 **MLOps & AI Infrastructure**
+-  Generative AI LLMs, RAG pipelines, diffusion models, and fine-tuning
 
+-  End-to-End ML Systems From data prep & model training to deployment in production
+
+-  AI Agents & Prompt Engineering Building autonomous multi-agent frameworks & smart workflows
+
+-  NLP & Information Retrieval Search, text analytics, and knowledge extraction systems
+
+-  MLOps & AI Infrastructure FastAPI, Docker, CI/CD, modular APIs, and scalable microservices
+- Working around MCP servers......
 ---
 
 ### 🛠️ Tech Stack
@@ -37,8 +43,7 @@ I'm an aspiring **AI Engineer** from **Hyderabad, India**, driven by the vision 
 ---
 
 ### 📚 I Write to Learn & Share
-
-I share **AI insights, practical tutorials**, and **real-world projects** on my blog — especially around Generative AI, prompt engineering, and building from scratch.
+I publish content on **AI Tech**, **hands-on tutorials**, and **real-world projects** especially around Generative AI, prompt engineering, and building applications from scratch. My goal is to simplify complex concepts and share practical knowledge that others can apply immediately.
 
 🔗 [Read My Blog on Medium →](https://medium.com/@aakuskar.980)
 
@@ -57,10 +62,7 @@ I share **AI insights, practical tutorials**, and **real-world projects** on my 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adity-star&show_icons=true&theme=tokyonight&count_private=true" width="65%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adity-star&theme=tokyonight" width="65%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Adity-star&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" width="65%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Adity-star&theme=tokyonight" width="65%" /> </p>
 
 ---
 
